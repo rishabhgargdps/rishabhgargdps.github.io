@@ -191,20 +191,21 @@ content:
     layout: text # Type of content section (list/text)
     content: | # this will include new lines to allow paragraphs
       Through Coursera
-      - Applied Data Science with Python | University of Michigan, US
-      - Investment Management | University of Geneva, Switzerland
-      - Deep Learning | Coursera - deeplearning.ai
-      - Blockchain | The State University of New York, US
-      - TensorFlow in Practice | deeplearning.ai
+      - Applied Data Science with Python <bold>|<bold> University of Michigan, US
+      - Investment Management <bold>|<bold> University of Geneva, Switzerland
+      - Deep Learning <bold>|<bold> Coursera - deeplearning.ai
+      - Blockchain <bold>|<bold> The State University of New York, US
+      - TensorFlow in Practice <bold>|<bold> deeplearning.ai
   - title: Online Courses # Title for the section
     layout: text # Type of content section (list/text)
     content: |
+      - Internet of Things <bold>|<bold> Stanford University, US
+      - Big Data Analytics <bold>|<bold> Griffith University, Australia
+      
       Through Coursera
-      - Internet of Things | Stanford University, US
-      - Java for Android | Vanderbilt University, US
-      - Blockchain and Cryptocurrency | University of Michigan, US
-      - HTML, CSS and Javascript for WebD | Johns Hopkins University, US
-      - Big Data Analytics | Griffith University, Australia
+      - Java for Android <bold>|<bold> Vanderbilt University, US
+      - Blockchain and Cryptocurrency <bold>|<bold> University of Michigan, US
+      - HTML, CSS and Javascript for WebD <bold>|<bold> Johns Hopkins University, US
   - title: Publications # Title for the section
     layout: list # Type of content section (list/text)
     content:
