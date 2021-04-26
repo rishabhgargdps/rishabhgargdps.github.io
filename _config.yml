@@ -41,7 +41,7 @@ twitter_username: rishabhgargdps
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Engineering second year student at BITS - Pilani, Goa, specialized in Deep Learning (Neural Networks), Applied Data   Science with Python, TensorFlow and Blockchain Technology. 
-  Skilled in CSS, HTML and JavaScript Libraries, aiming to gain work experience as <mark>Full Stack Web Developer</mark>.
+  Skilled in CSS, HTML and JavaScript Libraries, aiming to gain work experience as Full Stack Web Developer.
 
 content:
   - title: Programming Languages, Tools and Technologies # Title for the section
@@ -70,8 +70,10 @@ content:
           Data Science Libraries
           - Seaborn
           - Scikit Learn
+          
           Deep Learning frameworks
           - Tensorflow
+          
           Transfer Learning
           - VGG
           - ResNet
@@ -99,30 +101,30 @@ content:
         # link_text: boringcompany.com
         sub_title: Front-end Web developer
         caption: April 2020 - June 2020
-        quote: >
-          Used technologies such as React, npm, express and twitter bootstrap framework to optimize the user interface.
         description: | # this will include new lines to allow paragraphs
-            Every company or college needs its website to be user friendly and hassle free. This project was intended to solve such problems.
+          Used technologies such as React, npm, express and twitter bootstrap framework to optimize the user interface.
+          
+          Every company or college needs its website to be user friendly and hassle free. This project was intended to solve such problems.
       - layout: left
         title: Center for Technical Education
         link: bpgc-cte.org
         # link_text: boringcompany.com
         sub_title: Front-end Web developer
         caption: Aug 2019 - Present
-        quote: >
-          Used technologies such as React, npm, express and twitter bootstrap framework to optimize the user interface.
         description: | # this will include new lines to allow paragraphs
-            Every company or college needs its website to be user friendly and hassle free. This project was intended to solve such problems.
+          Used technologies such as React, npm, express and twitter bootstrap framework to optimize the user interface.
+          
+          Every company or college needs its website to be user friendly and hassle free. This project was intended to solve such problems.
       - layout: left
         title: Wallstreet Club
         link: facebook.com/wsc.bitsgoa/
         # link_text: boringcompany.com
         sub_title: Technical Analyst
         caption: Aug 2019 - Present
-        quote: >
-          Used technologies such as React, npm, express and twitter bootstrap framework to optimize the user interface.
         description: | # this will include new lines to allow paragraphs
-            Every company or college needs its website to be user friendly and hassle free. This project was intended to solve such problems.
+          Used technologies such as React, npm, express and twitter bootstrap framework to optimize the user interface.
+          
+          Every company or college needs its website to be user friendly and hassle free. This project was intended to solve such problems.
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -130,8 +132,6 @@ content:
         title: BITS Pilani, Goa
         caption: 2019 - 2023
         sub_title: B.E. Electronics and Communication Engineering
-        quote: >
-          I am an undergrad at BITS Pilani Goa Campus.
         description: | # this will include new lines to allow paragraphs
           CGPA: 9.23
           
@@ -153,10 +153,10 @@ content:
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        quote: >
-          This is a full stack clone which contains all the functionality of the amazon interface including payments
         description: | # this will include new lines to allow paragraphs
-          The framework used in the project is <mark>React</mark>
+          This is a full stack clone which contains all the functionality of the amazon interface including payments
+        
+          The framework used in the project is React
       - layout: left
         title: Pine script strategies
         link: github.com/rishabhgargdps/amazon-clone
@@ -168,10 +168,10 @@ content:
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        quote: >
-          This is a full stack clone which contains all the functionality of the amazon interface including payments
         description: | # this will include new lines to allow paragraphs
-          The framework used in the project is <mark>React</mark>
+          This is a full stack clone which contains all the functionality of the amazon interface including payments
+        
+          The framework used in the project is React
       - layout: left
         title: Cryptocurrency prices
         link: github.com/rishabhgargdps/amazon-clone
@@ -183,71 +183,44 @@ content:
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        quote: >
-          This is a full stack clone which contains all the functionality of the amazon interface including payments
         description: | # this will include new lines to allow paragraphs
-          The framework used in the project is <mark>React</mark>
+          This is a full stack clone which contains all the functionality of the amazon interface including payments
+        
+          The framework used in the project is React
   - title: Specializations # Title for the section
     layout: text # Type of content section (list/text)
     content: | # this will include new lines to allow paragraphs
       Through Coursera
-      - Applied Data Science with Python
-        
-        University of Michigan, US
-      - Investment Management
-        University of Geneva, Switzerland
-      - Deep Learning
-        Coursera - deeplearning.ai
-      - Blockchain
-        The State University of New York, US
-      - TensorFlow in Practice
-        deeplearning.ai
+      - Applied Data Science with Python | University of Michigan, US
+      - Investment Management | University of Geneva, Switzerland
+      - Deep Learning | Coursera - deeplearning.ai
+      - Blockchain | The State University of New York, US
+      - TensorFlow in Practice | deeplearning.ai
   - title: Online Courses # Title for the section
     layout: text # Type of content section (list/text)
     content: |
       Through Coursera
-      - Internet of Things
-        Stanford University, US
-      - Java for Android
-        Vanderbilt University, US
-      - Blockchain and Cryptocurrency
-        University of Michigan, US
-      - HTML, CSS and Javascript for WebD
-        Johns Hopkins University, US
-      - Big Data Analytics
-        Griffith University, Australia
+      - Internet of Things | Stanford University, US
+      - Java for Android | Vanderbilt University, US
+      - Blockchain and Cryptocurrency | University of Michigan, US
+      - HTML, CSS and Javascript for WebD | Johns Hopkins University, US
+      - Big Data Analytics | Griffith University, Australia
   - title: Publications # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: BITS Pilani, Goa
-        caption: 2019 - 2023
-        sub_title: B.E. Electronics and Communication Engineering
-        quote: > 
-         
+        title: ISTE Annual Convention
+        caption: "2016"
         description: | # this will include new lines to allow paragraphs
-          CGPA: 9.23
-          
-          Relevant courses
-          - CS
-          - ECE
-          - Finance
+          Presented Research Paper on Multipurpose ID: A digital tool to curb corruption and augment National Economy
   - title: Presentations # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: BITS Pilani, Goa
-        caption: 2019 - 2023
-        sub_title: B.E. Electronics and Communication Engineering
-        quote: > 
-         
+        title: India International Science Festival
+        caption: "2016"
         description: | # this will include new lines to allow paragraphs
-          CGPA: 9.23
-          
-          Relevant courses
-          - CS
-          - ECE
-          - Finance
+          Presented Research Paper on Digital ID with Electronic Surveillance System (Registered with National Innovation Foundation - India)
   - title: Hobbies and Interests
     layout: text
     content: | # this will include new lines to allow paragraphs
